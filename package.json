@@ -1,0 +1,12 @@
+{
+  "name": "grupo8-render-webservice",
+  "version": "1.0.0",
+  "description": "Proyecto grupo 8 Render Web Service",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "dependencies": {
+    "express":"^4.18.2"
+  }
+}
