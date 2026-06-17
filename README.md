@@ -99,7 +99,7 @@ node server.js
 
 Repositorio público:
 
-(Pegar aquí la URL final del repositorio)
+ https://github.com/alejandrochambij-alt/grupo8-render-webservice 
 
 ---
 
@@ -107,7 +107,7 @@ Repositorio público:
 
 URL del proyecto:
 
-(Pegar aquí la URL generada por Render)
+https://grupo8-render-webservice.onrender.com/ 
 
 ---
 
